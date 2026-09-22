@@ -1,8 +1,8 @@
 # Object-Oriented Programming with C++ — Unit II: Inheritance
 
-**Student Name:** [Devesh Manoj Nehete]
-**PRN:** [126UAD2008]
-**Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [F]
+**Student Name:** [pragati kashinath pawar]
+**PRN:** [125UAD1145]
+**Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [C]
 **Course Name:** Object-Oriented Programming with C++ (ADPC303)
 **Unit:** II — Inheritance
 
